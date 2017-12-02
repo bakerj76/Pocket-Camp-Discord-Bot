@@ -7,3 +7,4 @@ A bot for Discord that organizes Pocket Camp info.
 - [ ] Quarry reminder every 4(?) hours
 - [ ] Quarry requests
 - [ ] Item box listings
+- [ ] Better !help
